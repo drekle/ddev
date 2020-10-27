@@ -10,7 +10,7 @@
     "replace": {
         "drupal/core": "^8.7"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
     "prefer-stable": true,
     "config": {
         "preferred-install": "dist",
